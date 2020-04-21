@@ -12,9 +12,9 @@
     2. 모험모드 이외의 게임모드를 사용할 수 없음
     3. /spawnpoint 사용 불가능
     4. 사용자간의 /tp 명령어는 사용 가능  
-    ![ToC_warning_1](./picture/Toc-warning_1.png)
+    ![ToC-warning_1](./picture/ToC-warning_1.png)
     - **이 맵을 플레이하지 마시오**  
-    ![ToC_warning_2](./picture/Toc-warning_2.png)
+    ![ToC-warning_2](./picture/ToC-warning_2.png)
 ## Made by..
   - Joe2357  
   ![Joe2357](./picture/Joe2357.png)  
@@ -26,36 +26,36 @@
   ![Spawn](./picture/Spawn.png)
 ### MAP 1
   - Jump Map / 점프맵  
-  ![ToC_1_1](./picture/map/Toc-1_1.png)  
-  ![ToC_1_2](./picture/map/Toc-1_2.png)
+  ![ToC-1_1](./picture/map/ToC-1_1.png)  
+  ![ToC-1_2](./picture/map/ToC-1_2.png)
 ### MAP 2
   - Find Puzzle ( button ) / 퍼즐 찾기 ( 버튼찾기 )  
-  ![ToC_2_1](./picture/map/Toc-2_1.png)  
-  ![ToC_2_picture](./picture/map/Toc-2_picture.png)
+  ![ToC-2_1](./picture/map/ToC-2_1.png)  
+  ![ToC-2_picture](./picture/map/ToC-2_picture.png)
 ### MAP 3
   - Maze / 미로  
-  ![ToC_3_1](./picture/map/Toc-3_1.png)  
-  ![ToC_3_2](./picture/map/Toc-3_2.png)
+  ![ToC-3_1](./picture/map/ToC-3_1.png)  
+  ![ToC-3_2](./picture/map/ToC-3_2.png)
 ### MAP 4
   - Shooting Arrow / 활쏘기  
-  ![ToC_4_1](./picture/map/Toc-4_1.png)  
-  ![ToC_4_2](./picture/map/Toc-4_2.png)
+  ![ToC-4_1](./picture/map/ToC-4_1.png)  
+  ![ToC-4_2](./picture/map/ToC-4_2.png)
 ### MAP 5
   - Teleport ( Ender pearl ) / 텔레포트  
-  ![ToC_5_1](./picture/map/Toc-5_1.png)
+  ![ToC-5_1](./picture/map/ToC-5_1.png)
 ### MAP 6
   - Dropper / 드로퍼  
-  ![ToC_6_1](./picture/map/Toc-6_1.png)  
-  ![ToC_6_2](./picture/map/Toc-6_2.png)  
-  ![ToC_6_3](./picture/map/Toc-6_3.png)  
+  ![ToC-6_1](./picture/map/ToC-6_1.png)  
+  ![ToC-6_2](./picture/map/ToC-6_2.png)  
+  ![ToC-6_3](./picture/map/ToC-6_3.png)  
 ### MAP 7
   - Quiz / 퀴즈  
-  ![ToC_7_1](./picture/map/Toc-7_1.png)  
-  ![ToC_7_2](./picture/map/Toc-7_2.png)
+  ![ToC-7_1](./picture/map/ToC-7_1.png)  
+  ![ToC-7_2](./picture/map/ToC-7_2.png)
 ### MAP 8
   - Climb Up / 오르기  
-  ![ToC_8_1](./picture/map/Toc-8_1.png)  
-  ![ToC_8_2](./picture/map/Toc-8_2.png)
+  ![ToC-8_1](./picture/map/ToC-8_1.png)  
+  ![ToC-8_2](./picture/map/ToC-8_2.png)
 ## advencement
   - Temple of Chick  
   ![TempleofChick](./picture/advencement/AD_TempleofChick.png)
