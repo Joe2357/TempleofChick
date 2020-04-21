@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"엔더맨이 되어보자"},
+		"title":{
+			"text":"5단계 클리어"},
+		"icon":{
+			"item":"end_crystal",
+			"data":0},
+		"frame":"goal"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":5,
+	"parent-type":"child",
+	"parent":"TempleofChick:4th"
+}

@@ -1,0 +1,19 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":""},
+		"title":{
+			"text":"20분 돌파!"},
+		"icon":{
+			"item":"clock",
+			"data":0}},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":2,
+	"parent-type":"child",
+	"parent":"TempleofChick:10min"
+}

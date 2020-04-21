@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"마인크래프트에 소질이 없으시네요.."},
+		"title":{
+			"text":"100 times of DEATH"},
+		"icon":{
+			"item":"skull",
+			"data":0},
+		"frame":"challenge"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":4,
+	"parent-type":"child",
+	"parent":"TempleofChick:50death"
+}

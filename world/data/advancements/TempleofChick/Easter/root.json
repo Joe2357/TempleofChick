@@ -1,0 +1,19 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"You're a Fxxxing CHEATER!!!!"},
+		"title":{
+			"text":"Easter egg"},
+		"icon":{
+			"item":"ender_eye",
+			"data":0},
+		"frame":"challenge",
+		"background":"minecraft:textures/blocks/concrete_black.png"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":1,
+	"parent-count":null
+}

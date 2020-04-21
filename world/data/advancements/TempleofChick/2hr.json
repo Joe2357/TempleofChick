@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"이제 포기하세요.."},
+		"title":{
+			"text":"2시간 돌파!"},
+		"icon":{
+			"item":"clock",
+			"data":0},
+		"frame":"goal"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":7,
+	"parent-type":"child",
+	"parent":"TempleofChick:1hr"
+}

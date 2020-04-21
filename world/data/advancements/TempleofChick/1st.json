@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"많이 뛰어본 솜씨인걸?"},
+		"title":{
+			"text":"1단계 클리어"},
+		"icon":{
+			"item":"end_crystal",
+			"data":0},
+		"frame":"goal"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":1,
+	"parent-type":"child",
+	"parent":"TempleofChick:root"
+}

@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"이걸 깬다고? 진짜로?"},
+		"title":{
+			"text":"6단계 클리어"},
+		"icon":{
+			"item":"end_crystal",
+			"data":0},
+		"frame":"goal"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":6,
+	"parent-type":"child",
+	"parent":"TempleofChick:5th"
+}

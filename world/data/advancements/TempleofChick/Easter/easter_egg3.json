@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"여길 왜 옴?"},
+		"title":{
+			"text":"Easter egg 3 Found!"},
+		"icon":{
+			"item":"ender_eye",
+			"data":0},
+		"frame":"challenge"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":3,
+	"parent-type":"child",
+	"parent":"TempleofChick:Easter/easter_egg2"
+}

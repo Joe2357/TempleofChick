@@ -1,0 +1,18 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"게임을 시작하지.."},
+		"title":{
+			"text":"Temple of chick"},
+		"icon":{
+			"item":"egg",
+			"data":0},
+		"background":"minecraft:textures/blocks/concrete_yellow.png"},
+	"criteria":{
+		"tick":{"trigger":"minecraft:tick"}},
+	"rewards":{},
+	"requirements":[["tick"]],
+	"filename":1,
+	"parent-count":null
+}

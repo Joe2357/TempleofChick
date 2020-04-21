@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"가라는 곳으로는 안가고.."},
+		"title":{
+			"text":"Easter egg 5 Found!"},
+		"icon":{
+			"item":"ender_eye",
+			"data":0},
+		"frame":"challenge"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":5,
+	"parent-type":"child",
+	"parent":"TempleofChick:Easter/easter_egg4"
+}

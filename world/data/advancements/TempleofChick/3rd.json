@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"미로에 통달한 자"},
+		"title":{
+			"text":"3단계 클리어"},
+		"icon":{
+			"item":"end_crystal",
+			"data":0},
+		"frame":"goal"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":3,
+	"parent-type":"child",
+	"parent":"TempleofChick:2nd"
+}

@@ -1,0 +1,20 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"안 귀찮으신가요..?"},
+		"title":{
+			"text":"Easter egg 1 Found!"},
+		"icon":{
+			"item":"ender_eye",
+			"data":0},
+		"frame":"challenge"},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":1,
+	"parent-type":"child",
+	"parent":"TempleofChick:Easter/root"
+}

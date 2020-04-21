@@ -1,0 +1,19 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"많이 죽었다고 생각하시나요? 그러나 이제 시작이라구요.."},
+		"title":{
+			"text":"10 times of DEATH"},
+		"icon":{
+			"item":"skull",
+			"data":0}},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":1,
+	"parent-type":"child",
+	"parent":"TempleofChick:root"
+}

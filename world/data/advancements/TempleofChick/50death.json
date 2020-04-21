@@ -1,0 +1,19 @@
+{
+	"display":{
+		"hidden":true,
+		"description":{
+			"text":"지금쯤이면 깨지 않을까요?"},
+		"title":{
+			"text":"50 times of DEATH"},
+		"icon":{
+			"item":"skull",
+			"data":0}},
+	"criteria":{
+		"":{"trigger":"minecraft:impossible"}},
+	"rewards":{},
+	"requirements":[[""]],
+	"filename":10,
+	"parent-count":3,
+	"parent-type":"child",
+	"parent":"TempleofChick:30death"
+}
